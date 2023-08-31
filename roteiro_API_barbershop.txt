@@ -1,0 +1,12 @@
+roteiro da API para barbershop
+
+1- Instalar json_rest_server para controle de banco
+	* dart pub global activate json_rest_server.
+
+2- Criar uma pasta nome do app dentro de o comando que criara o backend baseado em json:
+	* json_rest_server create
+
+3- Configure seu banco dentro do arquivo database.json da forma que lhe conver.
+
+4- Estartar seu servidor 
+	* json_rest_server run (ou) jrs run
